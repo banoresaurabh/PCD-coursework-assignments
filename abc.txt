@@ -1,0 +1,12 @@
+#define pi 3.14
+#include<stdio.h>
+main()
+{
+double a,b,*a1;
+float c=0;
+a=b;
+if(a<5)
+{
+printf("hello");//print hello
+}
+}
